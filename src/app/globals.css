@@ -1,9 +1,14 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: hsla(211, 94%, 50%, 0.84);
+  --foreground: hsl(178, 95%, 51%);
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
 
 @theme inline {
   --color-background: var(--background);
@@ -14,8 +19,8 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: hsl(46, 91%, 51%);
+    --foreground: hsl(168, 97%, 51%);
   }
 }
 
