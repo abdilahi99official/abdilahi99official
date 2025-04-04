@@ -6,7 +6,7 @@ Built with **Next.js**, **Tailwind CSS**, and enhanced with **Framer Motion** an
 
 ## 🚀 Live Demo
 
-🌐 [View Portfolio Live](https://abdilahi99official.vercel.app)
+🌐 [View Portfolio Live](https://abdilahi99official.netlify.app/)
 
 ---
 
