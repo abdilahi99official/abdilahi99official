@@ -1,4 +1,5 @@
 import Link from 'next/link';// Importing Link from Next.js for navigation.
+import Image from "next/image";
 
 export default function HomeSection() {
   return (
@@ -6,7 +7,7 @@ export default function HomeSection() {
       {/* Hero Section*/}
       <div className="max-w-3xl space-y-6">
         <h1 className="text-5xl font-extrabold leading-tight">
-          Hello, I'm Abdilah, a Full Stack Developer
+          Hello, I&rsquo;m Abdilah, a Full Stack Developer
         </h1>
         <p className="text-xl mt-4 max-w-2xl mx-auto">
           I build responsive web and mobile applications that solve real-world problems. I am passionate about AI, Machine Learning, and creating innovative solutions.
@@ -22,7 +23,7 @@ export default function HomeSection() {
 
       {/*Profile image*/}
       <div className="h-100 w-100 overflow-hidden rounded-lg shadow-lg  mt-4">
-      <img className="object-cover h-full w-full" src="/images/my_photo.jpg" alt="Laptop"/>
+      <Image src="/images/my_photo.jpg" alt="Profile" width={300} height={300} />
       </div>
     </section>
   );
