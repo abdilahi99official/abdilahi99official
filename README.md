@@ -11,7 +11,6 @@ I'm more focused on applying AI & ML to automate workflows and systems.
 
 Sometimes I launch and deploy solutions to existing problems in the market.
 
-AI & ML is my INTEREST.
 
 
 Portfolio page:https://abdilahi99official.netlify.app/
