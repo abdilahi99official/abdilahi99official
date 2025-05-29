@@ -1,42 +1,29 @@
-# abdilahi99official Portfolio
+                           # abdilahi99official
+                                Hi there!
+                                
+Welcome to my Github corner. Feel free to check out my work and contributions.
+I'm also open to work and collaboration. 
 
-Welcome to my personal portfolio website — a modern, responsive web application showcasing my projects, skills, and professional background as a web and mobile developer with a passion for AI and Machine Learning.
+                                  About me:
+I'm a passionate software engineer eager to craft solutions to real-world problems.
+I'm more focused on applying AI & ML to automate workflows and systems.
+Sometimes I launch and deploy solutions to existing problems in the market.
+AI & ML is my INTEREST.
 
-Built with **Next.js**, **Tailwind CSS**, and enhanced with **Framer Motion** animations, the portfolio is optimized for performance and mobile responsiveness.
+Check out my SKILLS, PROJECTS and CV.
+Portfolio page:https://abdilahi99official.netlify.app/
 
-## 🚀 Live Demo
+Reach out for work or collaboration: abdilahi99official@gmail.com
 
-🌐 [View Portfolio Live](https://abdilahi99official.netlify.app/)
+Keep in touch with me by;
+Following my socials;
+LinkedIn:www.linkedin.com/in/abdilahi99official
+X(twitter):https://x.com/abdilahi99dev
 
----
+Read my articles on medium: https://medium.com/@abdilahi99official
 
-## Tech Stack
 
-- **Framework:** Next.js (App Router)
-- **Styling:** Tailwind CSS
-- **Animation:** Framer Motion
-- **Hosting:** Netlify
-- **Icons:** react icons
-- **Version Control:** Git & GitHub
+Thank you.
 
----
 
----
-
-## 📸 Features
-
-- 💻 **Project Showcase** with preview images and live links
-- 👨‍💻 **About Section** introducing who I am and what I do
-- 💼 **Skills Section** with animated progress bars
-- 📱 **Responsive Design** — optimized for mobile and tablets
-- 📎 **Downloadable CV**
-- 📬 **Contact Section** with social media links
-- ⚡ Smooth scroll navigation
-
----
-🙋‍♂️ Author
-Abdilahi
-🔗 LinkedIn https://www.linkedin.com/in/abdilah-ahmed-63338820a/
-🐦 Twitter https://x.com/abdilahi99dev
-instagram https://www.instagram.com/abdilahi99official/
-
+I
