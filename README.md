@@ -2,7 +2,7 @@ Hi there!
                                 
 Welcome to my Github corner. Feel free to check out my work and contributions.
 
-I'm also open to work and collaboration. 
+I'm open for work and collaboration. 
 
                                 
 I'm a passionate software engineer eager to craft solutions to real-world problems.
