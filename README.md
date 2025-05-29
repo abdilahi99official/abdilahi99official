@@ -13,16 +13,9 @@ Sometimes I launch and deploy solutions to existing problems in the market.
 
 AI & ML is my INTEREST.
 
-Check out my SKILLS, PROJECTS and CV.
 
 Portfolio page:https://abdilahi99official.netlify.app/
 
-Reach out for work or collaboration: abdilahi99official@gmail.com
-
-Keep in touch with me by;
-
-Following my socials.
-
-Read my articles on medium: https://medium.com/@abdilahi99official
+Reach out for work or collaboration: 📧 abdilahi99official@gmail.com
 
 Thank you.
