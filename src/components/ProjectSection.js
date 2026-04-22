@@ -9,12 +9,12 @@ import Link from "next/link";
 const projects = [
   {
     id: 1,
-    title: "BankLite",
+    title: "Plants Doctor",
     description:
-      "A Fin-tech web app for college students with smart budgeting, mobile banking, and financial education.",
+      "AI-powered plants diagnosis with treatment recommendations.",
     image: "/images/banklite.jpg",
-    link: "https://banklite.example.com",
-    tags: ["Fintech", "React", "Tailwind", "Next.js"],
+    link: "https://plants-doctor.netlify.app/",
+    tags: ["Plants", "Diagnosis", "Crop Diseases", "Agricare"],
   },
   {
     id: 2,
