@@ -9,21 +9,21 @@ import Link from "next/link";
 const projects = [
   {
     id: 1,
-    title: "Plants Doctor",
+    title: "Afritrade-connect",
     description:
-      "AI-powered plants diagnosis with treatment recommendations.",
-    image: "/images/banklite.jpg",
-    link: "https://plants-doctor.netlify.app/",
-    tags: ["Plants", "Diagnosis", "Crop Diseases", "Agricare"],
+      "A scalable automated e-commerce platform for African sellers — powered by AI, blockchain, and NFT technology on serverless architecture.",
+    image: "/images/aitools.jpg",
+    link: "https://afritrade-connect.netlify.app/",
+    tags: ["AI", "Ecommerce", "Blockchain", "Trade"],
   },
   {
     id: 2,
-    title: "Aitoolsforall.com",
+    title: "Halal Finance",
     description:
-      "A web platform for sharing, rating, and reviewing AI tools. Curated for creators, devs, and enthusiasts.",
-    image: "/images/aitools.jpg",
-    link: "https://aitoolsforall.com",
-    tags: ["AI", "Community", "Next.js", "Tailwind"],
+      "A web platform for managing your wealth ethically with automated Zakaat calculations, Halaal investing, and profit-sharing models.",
+    image: "/images/banklite.jpg",
+    link: "https://halal-finance.netlify.app/",
+    tags: ["AI", "Ethical", "Islamic finance", "Tailwind"],
   },
   {
     id: 3,
@@ -31,7 +31,7 @@ const projects = [
     description:
       "An AI-powered crop disease detection platform that helps farmers identify and manage plant health issues.",
     image: "/images/plantdoctor.jpg",
-    link: "https://plantdoctor.example.com",
+    link: "https://plants-doctor.netlify.app/",
     tags: ["AI/ML", "Agritech", "Python", "FastAPI", "Next.js"],
   },
 ];
