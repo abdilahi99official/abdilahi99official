@@ -1,6 +1,6 @@
-# Abdilah Ahmed
+# 👋 Abdilah Ahmed
 
-### Computer Science Trainee | Software Development | AI Applications & Automation
+### 🎓 Computer Science Trainee · 💻 Software Development · 🤖 AI Applications & Automation
 
 📍 **Dar es Salaam, Tanzania** · Open to local and remote opportunities
 
@@ -14,37 +14,49 @@ I'm open to contributing across **different software roles, teams, and industry 
 
 ## 🚀 Featured Project
 
-### AgriPride MarketLink: Agricultural Market Transparency Platform
+### 🌾 AgriPride MarketLink: Agricultural Market Transparency Platform
 
-Built and deployed a **low-bandwidth web application providing grain-market price transparency for farmers and traders in Kibaigwa, Tanzania**.
+> Built and deployed a **low-bandwidth web application providing grain-market price transparency for farmers and traders in Kibaigwa, Tanzania**.
 
-### What I built
+### What I Built
 
-* Implemented **text-first routes and a lightweight UI** optimized for low-connectivity, rural network environments
-* Designed **role-based workflows for market officers** to input and manage pricing data
-* Configured deployment on **Render** with constrained-connectivity contexts in mind
-* Wrote **automated tests, environment configuration, and setup documentation** to support handoff and maintenance
+* **Text-first routes and lightweight UI** optimized for low-connectivity, rural network environments
+* **Role-based workflows** for market officers to input and manage pricing data
+* **Render deployment** configured with constrained-connectivity contexts in mind
+* **Automated tests, environment configuration, and setup documentation** to support handoff and maintenance
 
-**Technology Stack:**
+**Technology Stack**
+
 `Python` `FastAPI` `PostgreSQL` `Render`
 
-### Engineering focus
+### Engineering Focus
 
 ```text
-Market Officers
-      ↓
-Price Data Management
-      ↓
-FastAPI Backend
-      ↓
-PostgreSQL
-      ↓
-Farmer & Trader Access
+┌─────────────────────┐
+│   Market Officers   │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│  Price Data Mgmt.   │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│   FastAPI Backend   │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│     PostgreSQL      │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ Farmer & Trader     │
+│      Access         │
+└─────────────────────┘
 ```
 
 The project gave me practical experience building software around **real users, real data, and real connectivity constraints**, while strengthening my skills in backend development, deployment, testing, and documentation.
 
-🔗 **[View the AgriPride MarketLink repository →](your-repo-link-here)**
+🔗 **[View the AgriPride MarketLink repository →](https://github.com/abdilahi99official/abdilahi99official/blob/main/your-repo-link-here)**
 
 ---
 
@@ -54,12 +66,12 @@ I'm interested in building software that is **practical, maintainable, and relia
 
 I'm particularly interested in the application layer where software, automation, data, and AI come together:
 
-* Building APIs and backend services
-* Automating repetitive business workflows
-* Integrating AI into existing applications
-* Working with structured data and validation
-* Designing systems around real-world constraints
-* Building software that can be tested, maintained, and handed over effectively
+* 🔌 Building APIs and backend services
+* ⚙️ Automating repetitive business workflows
+* 🤖 Integrating AI into existing applications
+* 🧩 Working with structured data and validation
+* 🌍 Designing systems around real-world constraints
+* 🛠️ Building software that can be tested, maintained, and handed over effectively
 
 As I develop toward **AI application engineering**, I'm especially interested in learning how AI can be introduced into business processes without sacrificing reliability and control.
 
@@ -69,19 +81,19 @@ As I develop toward **AI application engineering**, I'm especially interested in
 
 ### Core
 
-`Python` `FastAPI` `PostgreSQL` `SQL` `TypeScript` `React` `Next.js`
+`Python` · `FastAPI` · `PostgreSQL` · `SQL` · `TypeScript` · `React` · `Next.js`
 
 ### AI & Application Development
 
-`OpenAI APIs` `Prompt Engineering` `Structured Outputs` `RAG`
+`OpenAI APIs` · `Prompt Engineering` · `Structured Outputs` · `RAG`
 
 ### Tools & Infrastructure
 
-`Git` `Docker` `REST APIs` `Webhooks` `Render`
+`Git` · `Docker` · `REST APIs` · `Webhooks` · `Render`
 
 ### Currently Learning
 
-`Workflow Automation` `Temporal` `n8n` `Vector Databases` `LLM Evaluation`
+`Workflow Automation` · `Temporal` · `n8n` · `Vector Databases` · `LLM Evaluation`
 
 ---
 
@@ -97,16 +109,14 @@ As I develop toward **AI application engineering**, I'm especially interested in
 
 ---
 
-📫 Contact
+## 📫 Contact
 
-I'm currently looking for opportunities in software development, Automation, AI applications, IT, and entry-level technology roles where I can contribute, learn from experienced teams, and grow.
+I'm currently looking for opportunities in **software development, Automation, AI applications, IT, and entry-level technology roles** where I can contribute, learn from experienced teams, and grow.
 
-LinkedIn: linkedin.com/in/abdilahi99official
-Email: abdilahi99official@gmail.com
-Portfolio: abdilahi99official.netlify.app
+**LinkedIn:** [linkedin.com/in/abdilahi99official](https://www.linkedin.com/in/abdilahi99official/)
+**Email:** [abdilahi99official@gmail.com](mailto:abdilahi99official@gmail.com)
+**Portfolio:** [abdilahi99official.netlify.app](https://abdilahi99official.netlify.app/)
+
 ---
 
-*Building practical software today, growing toward governed AI systems tomorrow.*
-
-
-Thank you.
+> *Building practical software today, growing toward governed AI systems tomorrow.*
