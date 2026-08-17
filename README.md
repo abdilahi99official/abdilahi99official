@@ -56,7 +56,7 @@ I'm open to contributing across **different software roles, teams, and industry 
 
 The project gave me practical experience building software around **real users, real data, and real connectivity constraints**, while strengthening my skills in backend development, deployment, testing, and documentation.
 
-🔗 **[View the AgriPride MarketLink repository →](https://github.com/abdilahi99official/abdilahi99official/blob/main/your-repo-link-here)**
+🔗 **[View the AgriPride MarketLink repository →](https://github.com/abdilahi99official/AgriPride-Market-Link)**
 
 ---
 
