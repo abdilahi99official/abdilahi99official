@@ -1,122 +1,70 @@
-# 👋 Abdilah Ahmed
+# Hi, I'm Abdilah Ahmed 👋
 
-### 🎓 Computer Science Trainee · 💻 Software Development · 🤖 AI Applications & Automation
-
-📍 **Dar es Salaam, Tanzania** · Open to local and remote opportunities
-
-I'm a **Computer Science Trainee** interested in building practical software that solves real problems. My current focus is developing my software engineering skills while exploring **AI applications and automation**.
-
-I enjoy working across **backend, APIs, databases, and frontend applications**, and I'm particularly interested in how modern AI tools can be integrated into useful business processes.
-
-I'm open to contributing across **different software roles, teams, and industry contexts** as I continue to gain professional experience and grow as an engineer.
+I build software systems that wrap deterministic business rules around probabilistic AI models to create auditable, enterprise-ready applications. My focus is on delivering low-bandwidth web architectures and financial document processing engines optimized for real-world network and domain constraints[cite: 3, 4].
 
 ---
 
-## 🚀 Featured Project
+### 🛠️ Technical Stack
 
-### 🌾 AgriPride MarketLink: Agricultural Market Transparency Platform
+**Frontend & Web**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-> Built and deployed a **low-bandwidth web application providing grain-market price transparency for farmers and traders in Kibaigwa, Tanzania**.
+**Backend & Microservices**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### What I Built
+**Database, Auth & Cloud**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-* **Text-first routes and lightweight UI** optimized for low-connectivity, rural network environments
-* **Role-based workflows** for market officers to input and manage pricing data
-* **Render deployment** configured with constrained-connectivity contexts in mind
-* **Automated tests, environment configuration, and setup documentation** to support handoff and maintenance
-
-**Technology Stack**
-
-`Python` `FastAPI` `PostgreSQL` `Render`
-
-### Engineering Focus
-
-```text
-┌─────────────────────┐
-│   Market Officers   │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│  Price Data Mgmt.   │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│   FastAPI Backend   │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│     PostgreSQL      │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│ Farmer & Trader     │
-│      Access         │
-└─────────────────────┘
-```
-
-The project gave me practical experience building software around **real users, real data, and real connectivity constraints**, while strengthening my skills in backend development, deployment, testing, and documentation.
-
-🔗 **[View the AgriPride MarketLink repository →](https://github.com/abdilahi99official/AgriPride-Market-Link)**
+**AI & Intelligent Retrieval**  
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🧠 Engineering Interests
+### ⚡ What I've Done
 
-I'm interested in building software that is **practical, maintainable, and reliable**.
-
-I'm particularly interested in the application layer where software, automation, data, and AI come together:
-
-* 🔌 Building APIs and backend services
-* ⚙️ Automating repetitive business workflows
-* 🤖 Integrating AI into existing applications
-* 🧩 Working with structured data and validation
-* 🌍 Designing systems around real-world constraints
-* 🛠️ Building software that can be tested, maintained, and handed over effectively
-
-As I develop toward **AI application engineering**, I'm especially interested in learning how AI can be introduced into business processes without sacrificing reliability and control.
+* **Engineered DELA Parsing Microservice**: Built a stateless Python financial engine with FastAPI and `pdfplumber` that normalizes bank statement PDFs into structured `.xlsx` workbooks, utilizing Pydantic schemas to enforce mathematical reconciliation ($\text{Beginning Balance} + \sum \text{Credits} - \sum \text{Debits} = \text{Ending Balance}$) with automated temp-file purging.
+* **Architected AgriPride Low-Bandwidth Platform**: Designed a connectivity-aware agricultural price transparency network using Next.js Server-Side Rendering (SSR) to keep initial payloads under 50KB for rural network environments[cite: 3, 4].
+* **Implemented Grounded AI Guardrails**: Integrated Vercel AI SDK structured outputs paired with Zod and Pydantic schema validation to eliminate hallucinations in automated price trend summaries.
+* **Containerized Production Deployments**: Packaged persistent background worker services using Docker on Railway while deploying serverless web assets to Vercel.
 
 ---
 
-## 🛠️ Technologies
+### 🚀 What I'm Focused On Right Now
 
-### Core
-
-`Python` · `FastAPI` · `PostgreSQL` · `SQL` · `TypeScript` · `React` · `Next.js`
-
-### AI & Application Development
-
-`OpenAI APIs` · `Prompt Engineering` · `Structured Outputs` · `RAG`
-
-### Tools & Infrastructure
-
-`Git` · `Docker` · `REST APIs` · `Webhooks` · `Render`
-
-### Currently Learning
-
-`Workflow Automation` · `Temporal` · `n8n` · `Vector Databases` · `LLM Evaluation`
+* **Strict Schema Enforcement**: Deepening runtime schema validation using Pydantic v2 and Zod across full-stack TypeScript and Python applications.
+* **Vector Search & Grounded RAG**: Building document chunking and vector indexing pipelines using Supabase `pgvector` and testing outputs against manual accuracy evaluation benchmarks.
+* **Durable Workflow Design**: Studying durable execution architectures (n8n, Temporal) to manage stateful, failure-tolerant background processes.
 
 ---
 
-## 🌱 Currently Learning
+### 📊 GitHub Activity & Languages
 
-* Backend and API development
-* AI application engineering
-* LLM integration and evaluation
-* RAG and retrieval systems
-* Structured AI outputs
-* Workflow automation
-* Reliable software system design
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdilahi99official&show_icons=true&theme=dark&hide_border=true" alt="Abdilah's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdilahi99official&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
 
----
-
-## 📫 Contact
-
-I'm currently looking for opportunities in **software development, Automation, AI applications, IT, and entry-level technology roles** where I can contribute, learn from experienced teams, and grow.
-
-**LinkedIn:** [linkedin.com/in/abdilahi99official](https://www.linkedin.com/in/abdilahi99official/)
-**Email:** [abdilahi99official@gmail.com](mailto:abdilahi99official@gmail.com)
-**Portfolio:** [abdilahi99official.netlify.app](https://abdilahi99official.netlify.app/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdilahi99official&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
-> *Building practical software today, growing toward governed AI systems tomorrow.*
+### 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdilahi99official)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://abdilahi99official.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdilahi99official@gmail.com)
